@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "945977408292",
+    "project_id": "muetpointtracker-20d5a",
+    "storage_bucket": "muetpointtracker-20d5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945977408292:android:2aec41ca3e2f31d7a291b1",
+        "android_client_info": {
+          "package_name": "com.codewithhamad.muetbustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945977408292-f91na39qretct107qmfcmu058cbqt7ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codewithhamad.muetbustracker",
+            "certificate_hash": "84850499e6c4852a1cd8fe4ea38e73e7954f7b63"
+          }
+        },
+        {
+          "client_id": "945977408292-pon2ot254b2l984p06gj7aqnj8ql0k9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsFcDfUa2Wz9yyaOP6uuOcqcgpFhTg5P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945977408292-pon2ot254b2l984p06gj7aqnj8ql0k9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

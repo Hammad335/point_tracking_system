@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/debug/res/font/poppins_medium.xml" value="0.23076923076923078" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/drawable-v24/button_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/drawable-v24/button_background_disabled.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/drawable-v24/credentials_cardview_border.xml" value="0.2046875" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/drawable-v24/credentials_tablayout_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/drawable-v24/edit_text_background.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/drawable-v24/edit_text_bottom_border.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/drawable-v24/map_layout_border.xml" value="0.2046875" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/drawable-v24/mapview_top_round_corners.xml" value="0.2046875" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/drawable/bottom_sheet_round_corners.xml" value="0.2046875" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/drawable/menu_back.xml" value="0.2046875" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/drawable/menu_back_state.xml" value="0.2046875" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/drawable/menu_item_padding.xml" value="1.075" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/drawable/search_image.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/activity_credential.xml" value="0.25" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/activity_maps.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/fragment_basket.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/fragment_home.xml" value="0.17" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/fragment_my_point.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/fragment_notifications.xml" value="0.22" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/fragment_point.xml" value="0.21" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/fragment_setting.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/fragment_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/main_nav_bar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/nav_header.xml" value="0.33" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/reset_email_alert_dialog_edit.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/reset_email_alert_dialog_edit_text.xml" value="0.22" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/sample_notification.xml" value="0.25" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/sample_point.xml" value="0.25" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/layout/temp_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sk/AndroidStudioProjects/MuetBusTracker/app/src/main/res/menu/menu.xml" value="0.18854166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:title="Home"
+            android:icon="@drawable/map"
+            android:id="@+id/home"
+            />
+
+        <item
+            android:title="Select Point"
+            android:icon="@drawable/bus"
+            android:id="@+id/selectPoint" />
+
+        <item
+            android:title="My Point"
+            android:icon="@drawable/heart"
+            android:id="@+id/myPoint" />
+
+        <item
+            android:title="Notifications"
+            android:icon="@drawable/alarm"
+            android:id="@+id/notifications" />
+
+        <item
+            android:title="About"
+            android:icon="@drawable/info"
+            android:id="@+id/about" />
+
+    </group>
+
+<!--    <item android:title=""-->
+<!--        >-->
+<!--        <menu>-->
+<!--            <group android:checkableBehavior="single">-->
+<!--                <item-->
+<!--                    android:title="Setting"-->
+<!--                    android:icon="@drawable/search_image"-->
+<!--                    android:id="@+id/setting"-->
+<!--                    android:iconTint="@drawable/menu_back_state" />-->
+
+
+<!--                <item-->
+<!--                    android:title="About"-->
+<!--                    android:icon="@drawable/search_image"-->
+<!--                    android:id="@+id/about"-->
+<!--                    android:iconTint="@drawable/menu_back_state"/>-->
+
+<!--            </group>-->
+<!--        </menu>-->
+<!--    </item>-->
+</menu>

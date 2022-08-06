@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="290dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/nav_header_background"
+    android:layout_marginTop="-6dp"
+    android:layout_marginBottom="20dp"
+    android:orientation="vertical"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center_horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingTop="9dp"
+        android:gravity="center_horizontal"
+        android:background="@drawable/nav_header_back_shadow">
+
+        <ImageView
+            android:id="@+id/imagePoint"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_marginTop="4dp"
+            android:src="@drawable/muet_logo"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginEnd="12dp"/>
+
+        <ImageView
+            android:layout_width="240dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="-20dp"
+            android:src="@drawable/point_tracking_sys_text" />
+
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:orientation="vertical"
+            android:layout_marginTop="28dp"
+            android:gravity="center_horizontal"
+            android:background="@drawable/nav_header_text_back">
+
+            <TextView
+                android:id="@+id/navBarUserName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="xyz"
+                android:layout_marginEnd="12dp"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/white"
+                android:fontFamily="@font/poppins_semibold"
+                android:textSize="18sp"/>
+
+            <TextView
+                android:id="@+id/navBarUserEmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="11dept11@students.muet.edu.pk"
+                android:textColor="@color/white"
+                android:layout_marginTop="-5dp"
+                android:layout_marginEnd="12dp"
+                android:textStyle="italic"
+                android:fontFamily="@font/poppins_medium"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>
